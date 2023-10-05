@@ -6,3 +6,6 @@ body{
 color: white;
 background-image: url("./jbut5yiy0b461.gif");
 }
+.container {
+  display: flex;
+}
